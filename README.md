@@ -1,4 +1,4 @@
-# Object-Detection-using-YOLO-on-your-own-webcam
+# Object Detection using YOLO and openCV 
 
 WARN.PY
 
